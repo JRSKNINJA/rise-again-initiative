@@ -1,0 +1,2 @@
+/* Public values only. Never commit service-role keys or payment secrets. */
+window.RAI_CONFIG={SUPABASE_URL:"https://YOUR-PROJECT.supabase.co",SUPABASE_ANON_KEY:"YOUR_SUPABASE_ANON_KEY",PUBLIC_EMAIL:"",PUBLIC_PHONE:""};
